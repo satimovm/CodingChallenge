@@ -1,4 +1,4 @@
-package com.challenges.codingbat.warming1;
+package com.challenges.platforms.codingbat.warming1;
 
 /**
  * Created by murad
